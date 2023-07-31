@@ -23,8 +23,8 @@ body, input, textarea{
 
 header {
     font-family: 'Quicksand', sans-serif;
-    background-color: #E8B44F;
-    color: antiquewhite;
+    background-color: #F0D384;
+    color:#ecf0f1;
     font-size: 28px;
 }
 
@@ -67,10 +67,12 @@ section {
 
 section h2{
     margin-bottom: 16px;
+    font-weight: bold;
 }
 
 section{
-    color: #E8B44F;
+    color: #3C7AFF;
+    ;
 }
 
 section p{
@@ -135,22 +137,22 @@ section h3{
 }
 
 form button{
-    background-color: #E8B44F;
+    background-color: #F0D384;
     color: #ecf0f1;
     border: none;
     cursor: pointer;
 }
 
 form button:hover{
-    background-color: #f1c7739d;
+    background-color: #3c7aff85;
 }
 
 input:focus, textarea:focus{
-    outline-color: #E8B44F;
+    outline-color: #F0D384;
 }
 
 footer {
-    background-color: #E8B44F;
+    background-color: #F0D384;
     color: #ecf0f1;
     padding: 16px 0;
 }
