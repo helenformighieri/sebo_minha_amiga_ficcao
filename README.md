@@ -2,3 +2,5 @@
 
 Nesse desafio, implementamos o básico de HTML e CSS abordados até o presente.
 
+Link do projeto: https://sebo-minha-amiga-ficcao.vercel.app/
+
